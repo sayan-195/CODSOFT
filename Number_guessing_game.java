@@ -62,7 +62,6 @@ public class Number_guessing_game {
         while(!b){
         g.takeUserInput();
         b=g.isCorrect();
-        System.out.println(b);
         }
         
 
